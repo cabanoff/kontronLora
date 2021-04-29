@@ -1,0 +1,2 @@
+"node MAC","UTC timestamp","us count","frequency","RF chain","RX chain","size","modulation","bandwidth","datarate","coderate","RSSI","SNR","payload"
+"","2021-03-02 01:09:20.727Z",2645137804, 864780000,0, 5, 52,"LORA",125000,"SF7"   ,"1/2",-114,-11.8,"DD8D895C-7B9CC3FF-E1042D33-7B9069AB-95A4BE3A-27E40CEA-7821E843-7B79B47B-150E827C-0773CD1B-2C884561-69893A7D-CBA50696"

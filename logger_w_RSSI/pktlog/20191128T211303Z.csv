@@ -1,0 +1,2 @@
+"node MAC","UTC timestamp","us count","frequency","RF chain","RX chain","size","modulation","bandwidth","datarate","coderate","RSSI","SNR","payload"
+"","2019-11-28 21:19:21.513Z",1708643156, 864100000,0, 0, 32,"LORA",125000,"SF8"   ,"4/5",-87,+13.0,"01000000-00000000-00000000-00000000-00000000-00000000-00000000-00000000"
